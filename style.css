@@ -12,6 +12,7 @@ html {
   padding: 0;
   font-family: sans-serif;
   box-sizing: border-box;
+  min-height: 100vh;
 }
 .hero {
   color: #fff;
@@ -34,7 +35,7 @@ html {
 .keys {
   display: flex;
   flex: 1;
-  min-height: 100vh;
+  min-height: 75vh;
   align-items: center;
   justify-content: center;
 }
